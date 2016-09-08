@@ -1,0 +1,38 @@
+h1, h2, h3, h4, h5, h6 {
+  font-family: SansationLight;
+}
+
+p {
+  font-family: Arial,Tahoma,Verdana;
+}
+
+.row {
+  margin: 1em auto;
+}
+
+figure {
+  
+}
+
+figure.image-left {
+  float: left;
+  padding: 1%;
+}
+
+figure.image-right {
+  float: right;
+  padding: 1%;
+}
+
+figure img {
+  display: block;
+  margin: 0 auto;
+}
+
+figcaption {
+  text-align: center;
+  font-style: italic;
+  font-size: 1.25em;
+  font-weight: bold;
+  color: black;
+}

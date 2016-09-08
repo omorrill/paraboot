@@ -1,0 +1,7 @@
+.pior {
+  width: 100%;
+}
+.image-on-right-para > img {
+  float: right;
+  border: 1px solid red;
+}
